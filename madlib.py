@@ -13,7 +13,7 @@ body        = input("Enter a Body Part:")
 b_noun      = input("Enter a Plural Noun:")
 i2ng_verb   = input("Enter a Verb Ending in -ing:")
 b_noun      = input("Enter a Noun:")
-result       = input("Should we the Results?")
+result      = input("Should we the Results?")
 
 def madlib_game():
     print   ("It was a " + a_adjective +", cold November day.")
